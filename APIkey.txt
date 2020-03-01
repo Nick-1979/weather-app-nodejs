@@ -1,0 +1,2 @@
+API= a818db3f16ab8cca8508f7a8f67428fb
+name= weather1
